@@ -2,6 +2,7 @@
 This repository collects the key components of the NLP module that plays a central role in our Capstone Design project.
 
 ## File Tree
+```
 📦capstone             #Root File
  ┣ 📂checkpoint        #Model Checkpoints
  ┣ 📂data              
@@ -14,6 +15,7 @@ This repository collects the key components of the NLP module that plays a centr
  ┣ 📜model.py          #Model Architecture
  ┣ 📜preprocess.py     #Data Preprocessing
  ┗ 📜train.py          #Train Our Models
+ ```
 
 ## Purpose
 We are developing 'HAN-OL', a poetry recommendation service designed to deliver emotional comfort and healing
