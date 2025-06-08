@@ -87,4 +87,4 @@ def evaluate(json_path):
 
 # 메인 실행
 if __name__ == "__main__":
-    evaluate("poems_with_golden_emotion.json")
+    evaluate("/Users/suyunkim/projects/capstone/data/generated_poems_ex.json")
